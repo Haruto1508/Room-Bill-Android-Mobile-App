@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.RoomBill" parent="Theme.MaterialComponents.Light" />
+</resources>
